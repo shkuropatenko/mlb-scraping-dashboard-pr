@@ -4,7 +4,7 @@ import streamlit as st
 
 DATA_URL = "https://www.espn.com/mlb/worldseries/history/winners"
 
-st.set_page_config(page_title="MLB World Series Dashboard", layout="wide")
+st.set_page_config(page_title="MLB World Series Dashboard", layout="wide") 
 st.title("MLB World Series Dashboard")
 st.markdown("This dashboard scrapes and visualizes MLB World Series winners data.")
 
