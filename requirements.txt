@@ -4,3 +4,5 @@ plotly
 lxml
 html5lib
 requests
+selenium
+webdriver-manager

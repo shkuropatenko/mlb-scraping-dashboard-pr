@@ -1,0 +1,494 @@
+year,league,category,statistic,player,team,value
+2015,AL,hitting,Base on,Balls Jose,Bautista Toronto,110
+2015,AL,hitting,Batting,Average Miguel,Cabrera Detroit,.338
+2015,AL,hitting,Doubles,Michael Brantley,Cleveland,45
+2015,AL,hitting,Hits,Jose Altuve,Houston,200
+2015,AL,hitting,Home,Runs Chris,Davis Baltimore,47
+2015,AL,hitting,On,Base Percentage,Miguel Cabrera Detroit,.440
+2015,AL,hitting,RBI,Josh Donaldson,Toronto,123
+2015,AL,hitting,Runs,Josh Donaldson,Toronto,122
+2015,AL,hitting,Slugging,Average Mike,Trout Los Angeles,.590
+2015,AL,hitting,Stolen,Bases Jose,Altuve Houston,38
+2015,AL,hitting,Total,Bases Josh,Donaldson Toronto,352
+2015,AL,hitting,Triples,Eddie Rosario,Minnesota,15
+2015,AL,pitching,Complete,Games Mark,Buehrle Toronto,4
+2015,AL,pitching,ERA,David Price,Detroit,2.45
+2015,AL,pitching,Games,Kevin Jepsen,Tampa Bay,75
+2015,AL,pitching,Saves,Brad Boxberger,Tampa Bay,41
+2015,AL,pitching,Shutouts,Sonny Gray,Oakland,2
+2015,AL,pitching,Strikeouts,Chris Sale,Chicago,274
+2015,AL,pitching,Winning,Percentage David,Price Detroit,.783
+2015,AL,pitching,Wins,Dallas Keuchel,Houston,20
+2015,NL,hitting,Base on,Balls Joey,Votto Cincinnati,143
+2015,NL,hitting,Batting,Average Dee,Gordon Miami,.333
+2015,NL,hitting,Doubles,Matt Carpenter,St. Louis,44
+2015,NL,hitting,Hits,Dee Gordon,Miami,205
+2015,NL,hitting,Home,Runs Nolan,Arenado Colorado,42
+2015,NL,hitting,On,Base Percentage,Bryce Harper Washington,.460
+2015,NL,hitting,RBI,Nolan Arenado,Colorado,130
+2015,NL,hitting,Runs,Bryce Harper,Washington,118
+2015,NL,hitting,Slugging,Average Bryce,Harper Washington,.649
+2015,NL,hitting,Stolen,Bases Dee,Gordon Miami,58
+2015,NL,hitting,Total,Bases Nolan,Arenado Colorado,354
+2015,NL,hitting,Triples,David Peralta,Arizona,10
+2015,NL,pitching,Complete,Games Jake,Arrieta Chicago,4
+2015,NL,pitching,ERA,Zack Greinke,Los Angeles,1.66
+2015,NL,pitching,Games,Kevin Siegrist,St. Louis,81
+2015,NL,pitching,Saves,Mark Melancon,Pittsburgh,51
+2015,NL,pitching,Shutouts,Jake Arrieta,Chicago,3
+2015,NL,pitching,Strikeouts,Clayton Kershaw,Los Angeles,301
+2015,NL,pitching,Winning,Percentage Zack,Greinke Los Angeles,.864
+2015,NL,pitching,Wins,Jake Arrieta,Chicago,22
+2016,AL,hitting,Base on,Balls Mike,Trout Los Angeles,116
+2016,AL,hitting,Batting,Average Jose,Altuve Houston,.338
+2016,AL,hitting,Doubles,David Ortiz,Boston,48
+2016,AL,hitting,Hits,Jose Altuve,Houston,216
+2016,AL,hitting,Home,Runs Mark,Trumbo Baltimore,47
+2016,AL,hitting,On,Base Percentage,Mike Trout Los Angeles,.441
+2016,AL,hitting,RBI,Edwin Encarnacion,Toronto,127
+2016,AL,hitting,Runs,Mike Trout,Los Angeles,123
+2016,AL,hitting,Slugging,Average David,Ortiz Boston,.620
+2016,AL,hitting,Stolen,Bases Rajai,Davis Cleveland,43
+2016,AL,hitting,Total,Bases Mookie,Betts Boston,359
+2016,AL,hitting,Triples,Adam Eaton,Chicago,9
+2016,AL,pitching,Complete,Games Chris,Sale Chicago,6
+2016,AL,pitching,ERA,Aaron Sanchez,Toronto,3.00
+2016,AL,pitching,Games,Bryan Shaw,Cleveland,75
+2016,AL,pitching,Saves,Zach Britton,Baltimore,47
+2016,AL,pitching,Shutouts,Corey Kluber,Cleveland,2
+2016,AL,pitching,Strikeouts,Justin Verlander,Detroit,254
+2016,AL,pitching,Winning,Percentage Aaron,Sanchez Toronto,.882
+2016,AL,pitching,Wins,Rick Porcello,Boston,22
+2016,NL,hitting,Base on,Balls Paul,Goldschmidt Arizona,110
+2016,NL,hitting,Batting,Average DJ,LeMahieu Colorado,.348
+2016,NL,hitting,Doubles,Daniel Murphy,Washington,47
+2016,NL,hitting,Hits,Jean Segura,Arizona,203
+2016,NL,hitting,Home,Runs Nolan,Arenado Colorado,41
+2016,NL,hitting,On,Base Percentage,Joey Votto Cincinnati,.434
+2016,NL,hitting,RBI,Nolan Arenado,Colorado,133
+2016,NL,hitting,Runs,Kris Bryant,Chicago,121
+2016,NL,hitting,Slugging,Average Daniel,Murphy Washington,.595
+2016,NL,hitting,Stolen,Bases Jonathan,Villar Milwaukee,62
+2016,NL,hitting,Total,Bases Nolan,Arenado Colorado,352
+2016,NL,hitting,Triples,Brandon Crawford,San Francisco,11
+2016,NL,pitching,Complete,Games Johnny,Cueto San Francisco,5
+2016,NL,pitching,ERA,Kyle Hendricks,Chicago,2.13
+2016,NL,pitching,Games,Brad Hand,San Diego,82
+2016,NL,pitching,Saves,Jeurys Familia,New York,51
+2016,NL,pitching,Shutouts,Clayton Kershaw,Los Angeles,3
+2016,NL,pitching,Strikeouts,Max Scherzer,Washington,284
+2016,NL,pitching,Winning,Percentage Jon,Lester Chicago,.792
+2016,NL,pitching,Wins,Max Scherzer,Washington,20
+2017,AL,hitting,Base on,Balls Aaron,Judge New York Yankees,127
+2017,AL,hitting,Batting,Average Jose,Altuve Houston Astros,.346
+2017,AL,hitting,Doubles,Jose Ramirez,Cleveland Indians,56
+2017,AL,hitting,Hits,Jose Altuve,Houston Astros,204
+2017,AL,hitting,Home,Runs Aaron,Judge New York Yankees,52
+2017,AL,hitting,On,Base Percentage,Mike Trout Los Angeles Angels,.442
+2017,AL,hitting,RBI,Nelson Cruz,Seattle Mariners,119
+2017,AL,hitting,Runs,Aaron Judge,New York Yankees,128
+2017,AL,hitting,Slugging,Average Mike,Trout Los Angeles Angels,.629
+2017,AL,hitting,Stolen,Bases Whit,Merrifield Kansas City Royals,34
+2017,AL,hitting,Total,Bases Jose,Abreu Chicago White Sox,343
+2017,AL,hitting,Triples,Nick Castellanos,Detroit Tigers,10
+2017,AL,pitching,Complete,Games Corey,Kluber Cleveland Indians,5
+2017,AL,pitching,Ervin,Santana Minnesota,Twins,5
+2017,AL,pitching,ERA,Corey Kluber,Cleveland Indians,2.25
+2017,AL,pitching,Games,Bryan Shaw,Cleveland Indians,79
+2017,AL,pitching,Saves,Alex Colome,Tampa Bay Rays,46
+2017,AL,pitching,Shutouts,Corey Kluber,Cleveland Indians,3
+2017,AL,pitching,Ervin,Santana Minnesota,Twins,3
+2017,AL,pitching,Strikeouts,Chris Sale,Boston Red Sox,308
+2017,AL,pitching,Winning,Percentage Corey,Kluber Cleveland Indians,.818
+2017,AL,pitching,Wins,Carlos Carrasco,Cleveland Indians,18
+2017,AL,pitching,Corey,Kluber Cleveland,Indians,18
+2017,AL,pitching,Jason,Vargas Kansas,City Royals,18
+2017,NL,hitting,Base on,Balls Joey,Votto Cincinnati Reds,134
+2017,NL,hitting,Batting,Average Charlie,Blackmon Colorado Rockies,.331
+2017,NL,hitting,Doubles,Nolan Arenado,Colorado Rockies,43
+2017,NL,hitting,Daniel,Murphy Washington,Nationals,43
+2017,NL,hitting,Hits,Charlie Blackmon,Colorado Rockies,213
+2017,NL,hitting,Home,Runs Giancarlo,Stanton Miami Marlins,59
+2017,NL,hitting,On,Base Percentage,Joey Votto Cincinnati Reds,.454
+2017,NL,hitting,RBI,Giancarlo Stanton,Miami Marlins,132
+2017,NL,hitting,Runs,Charlie Blackmon,Colorado Rockies,137
+2017,NL,hitting,Slugging,Average Giancarlo,Stanton Miami Marlins,.631
+2017,NL,hitting,Stolen,Bases Dee,Gordon Miami Marlins,60
+2017,NL,hitting,Total,Bases Charlie,Blackmon Colorado Rockies,387
+2017,NL,hitting,Triples,Charlie Blackmon,Colorado Rockies,14
+2017,NL,pitching,Complete,Games Carlos,Martinez St. Louis Cardinals,2
+2017,NL,pitching,Ivan,Nova Pittsburgh,Pirates,2
+2017,NL,pitching,Clayton,Richard San,Diego Padres,2
+2017,NL,pitching,Max,Scherzer Washington,Nationals,2
+2017,NL,pitching,ERA,Clayton Kershaw,Los Angeles Dodgers,2.21
+2017,NL,pitching,Games,Corey Knebel,Milwaukee Brewers,76
+2017,NL,pitching,Saves,Greg Holland,Colorado Rockies,41
+2017,NL,pitching,Kenley,Jansen Los,Angeles Dodgers,41
+2017,NL,pitching,Shutouts,Carlos Martinez,St. Louis Cardinals,2
+2017,NL,pitching,Strikeouts,Max Scherzer,Washington Nationals,268
+2017,NL,pitching,Winning,Percentage Clayton,Kershaw Los Angeles Dodgers,.818
+2017,NL,pitching,Wins,Clayton Kershaw,Los Angeles Dodgers,18
+2018,AL,hitting,Base on,Balls Mike,Trout Los Angeles Angels,122
+2018,AL,hitting,Batting,Average Mookie,Betts Boston Red Sox,.346
+2018,AL,hitting,Doubles,Alex Bregman,Houston Astros,50
+2018,AL,hitting,Hits,Whit Merrifield,Kansas City Royals,192
+2018,AL,hitting,Home,Runs Khris,Davis Oakland Athletics,48
+2018,AL,hitting,On,Base Percentage,Mike Trout Los Angeles Angels,.460
+2018,AL,hitting,RBI,J.D. Martinez,Boston Red Sox,130
+2018,AL,hitting,Runs,Mookie Betts,Boston Red Sox,129
+2018,AL,hitting,Slugging,Average Mookie,Betts Boston Red Sox,.640
+2018,AL,hitting,Stolen,Bases Whit,Merrifield Kansas City Royals,45
+2018,AL,hitting,Total,Bases J.D.,Martinez Boston Red Sox,358
+2018,AL,hitting,Triples,Yolmer Sanchez,Chicago White Sox,10
+2018,AL,hitting,Mallex,Smith Tampa,Bay Rays,10
+2018,AL,pitching,Complete,Games Jose,Berrios Minnesota Twins,2
+2018,AL,pitching,Carlos,Carrasco Cleveland,Indians,2
+2018,AL,pitching,Corey,Kluber Cleveland,Indians,2
+2018,AL,pitching,James,Paxton Seattle,Mariners,2
+2018,AL,pitching,ERA,Blake Snell,Tampa Bay Rays,1.89
+2018,AL,pitching,Games,Ryan Pressly,Minnesota Twins,77
+2018,AL,pitching,Saves,Edwin Diaz,Seattle Mariners,57
+2018,AL,pitching,Shutouts,Jose Berrios,Minnesota Twins,1
+2018,AL,pitching,Mike,Clevinger Cleveland,Indians,1
+2018,AL,pitching,Gerrit,Cole Houston,Astros,1
+2018,AL,pitching,Andrew,Heaney Los,Angeles Angels,1
+2018,AL,pitching,Corey,Kluber Cleveland,Indians,1
+2018,AL,pitching,Sean,Manaea Oakland,Athletics,1
+2018,AL,pitching,Daniel,Mengden Oakland,Athletics,1
+2018,AL,pitching,James,Paxton Seattle,Mariners,1
+2018,AL,pitching,Luis,Severino New,York Yankees,1
+2018,AL,pitching,Masahiro,Tanaka New,York Yankees,1
+2018,AL,pitching,Justin,Verlander Houston,Astros,1
+2018,AL,pitching,Strikeouts,Justin Verlander,Houston Astros,290
+2018,AL,pitching,Winning,Percentage Charlie,Morton Houston Astros,.833
+2018,AL,pitching,Wins,Blake Snell,Tampa Bay Rays,21
+2018,NL,hitting,Base on,Balls Bryce,Harper Washington Nationals,130
+2018,NL,hitting,Batting,Average Christian,Yelich Milwaukee Brewers,.326
+2018,NL,hitting,Doubles,Freddie Freeman,Atlanta Braves,44
+2018,NL,hitting,Anthony,Rendon Washington,Nationals,44
+2018,NL,hitting,Hits,Freddie Freeman,Atlanta Braves,191
+2018,NL,hitting,Home,Runs Nolan,Arenado Colorado Rockies,38
+2018,NL,hitting,On,Base Percentage,Joey Votto Cincinnati Reds,.417
+2018,NL,hitting,RBI,Javier Baez,Chicago Cubs,111
+2018,NL,hitting,Runs,Charlie Blackmon,Colorado Rockies,119
+2018,NL,hitting,Slugging,Average Christian,Yelich Milwaukee Brewers,.598
+2018,NL,hitting,Stolen,Bases Trea,Turner Washington Nationals,43
+2018,NL,hitting,Total,Bases Christian,Yelich Milwaukee Brewers,343
+2018,NL,hitting,Triples,Ketel Marte,Arizona Diamondbacks,12
+2018,NL,pitching,Complete,Games Michael,Foltynewicz Atlanta Braves,2
+2018,NL,pitching,Max,Scherzer Washington,Nationals,2
+2018,NL,pitching,Noah,Syndergaard New,York Mets,2
+2018,NL,pitching,Jameson,Taillon Pittsburgh,Pirates,2
+2018,NL,pitching,ERA Jacob deGrom,New York,Mets,1.70
+2018,NL,pitching,Games,Brad Ziegler,Miami Marlins,82
+2018,NL,pitching,Saves,Wade Davis,Colorado Rockies,43
+2018,NL,pitching,Shutouts,Patrick Corbin,Arizona Diamondbacks,1
+2018,NL,pitching,Michael,Foltynewicz Atlanta,Braves,1
+2018,NL,pitching,Miles,Mikolas St.,Louis Cardinals,1
+2018,NL,pitching,Max,Scherzer Washington,Nationals,1
+2018,NL,pitching,Chris,Stratton San,Francisco Giants,1
+2018,NL,pitching,Noah,Syndergaard New,York Mets,1
+2018,NL,pitching,Jameson,Taillon Pittsburgh,Pirates,1
+2018,NL,pitching,Trevor,Williams Pittsburgh,Pirates,1
+2018,NL,pitching,Strikeouts,Max Scherzer,Washington Nationals,300
+2018,NL,pitching,Winning,Percentage Miles,Mikolas St. Louis Cardinals,.818
+2018,NL,pitching,Wins,Jon Lester,Chicago Cubs,18
+2018,NL,pitching,Miles,Mikolas St.,Louis Cardinals,18
+2018,NL,pitching,Max,Scherzer Washington,Nationals,18
+2019,AL,hitting,Base on,Balls Alex,Bregman Houston Astros,119
+2019,AL,hitting,Batting,Average Tim,Anderson Chicago White Sox,.335
+2019,AL,hitting,Doubles,Rafael Devers,Boston Red Sox,54
+2019,AL,hitting,Hits,Whit Merrifield,Kansas City Royals,206
+2019,AL,hitting,Home,Runs Jorge,Soler Kansas City Royals,48
+2019,AL,hitting,On,Base Percentage,Mike Trout Los Angeles Angels,.438
+2019,AL,hitting,RBI,Jose Abreu,Chicago White Sox,123
+2019,AL,hitting,Runs,Mookie Betts,Boston Red Sox,135
+2019,AL,hitting,Slugging,Average Mike,Trout Los Angeles Angels,.645
+2019,AL,hitting,Stolen,Bases Mallex,Smith Tampa Bay Rays,46
+2019,AL,hitting,Total,Bases Rafael,Devers Boston Red Sox,359
+2019,AL,hitting,Triples,Hunter Dozier,Kansas City Royals,10
+2019,AL,hitting,Whit,Merrifield Kansas,City Royals,10
+2019,AL,hitting,Adalberto,Mondesi Kansas,City Royals,10
+2019,AL,pitching,Complete,Games Shane,Bieber Cleveland Indians,3
+2019,AL,pitching,Lucas,Giolito Chicago,White Sox,3
+2019,AL,pitching,ERA,Gerrit Cole,Houston Astros,2.50
+2019,AL,pitching,Games,Yusmeiro Petit,Oakland Athletics,80
+2019,AL,pitching,Saves,Roberto Osuna,Houston Astros,38
+2019,AL,pitching,Shutouts,Shane Bieber,Cleveland Indians,2
+2019,AL,pitching,Lucas,Giolito Chicago,White Sox,2
+2019,AL,pitching,Strikeouts,Gerrit Cole,Houston Astros,326
+2019,AL,pitching,Winning,Percentage Gerrit,Cole Houston Astros,.800
+2019,AL,pitching,Wins,Justin Verlander,Houston Astros,21
+2019,NL,hitting,Base on,Balls Rhys,Hoskins Philadelphia Phillies,116
+2019,NL,hitting,Batting,Average Christian,Yelich Milwaukee Brewers,.329
+2019,NL,hitting,Doubles,Anthony Rendon,Washington Nationals,44
+2019,NL,hitting,Corey,Seager Los,Angeles Dodgers,44
+2019,NL,hitting,Hits,Ozzie Albies,Atlanta Braves,189
+2019,NL,hitting,Home,Runs Pete,Alonso New York Mets,53
+2019,NL,hitting,On,Base Percentage,Christian Yelich Milwaukee Brewers,.429
+2019,NL,hitting,RBI,Anthony Rendon,Washington Nationals,126
+2019,NL,hitting,Runs,Ronald Acuna,Jr. Atlanta Braves,127
+2019,NL,hitting,Slugging,Average Christian,Yelich Milwaukee Brewers,.671
+2019,NL,hitting,Stolen,Bases Ronald,Acuna Jr. Atlanta Braves,37
+2019,NL,hitting,Total,Bases Cody,Bellinger Los Angeles Dodgers,351
+2019,NL,hitting,Triples,Eduardo Escobar,Arizona Diamondbacks,10
+2019,NL,pitching,Complete,Games Sandy,Alcantara Miami Marlins,2
+2019,NL,pitching,Walker,Buehler Los,Angeles Dodgers,2
+2019,NL,pitching,Zach,Eflin Philadelphia,Phillies,2
+2019,NL,pitching,ERA,Hyun-Jin Ryu,Los Angeles Dodgers,2.32
+2019,NL,pitching,Games,Alex Claudio,Milwaukee Brewers,83
+2019,NL,pitching,Saves,Kirby Yates,San Diego Padres,41
+2019,NL,pitching,Shutouts,Sandy Alcantara,Miami Marlins,2
+2019,NL,pitching,Strikeouts Jacob deGrom,New York,Mets,255
+2019,NL,pitching,Winning,Percentage Walker,Buehler Los Angeles Dodgers,.778
+2019,NL,pitching,Wins,Stephen Strasburg,Washington Nationals,18
+2020,AL,hitting,Base on,Balls Carlos,Santana Cleveland Indians,47
+2020,AL,hitting,Batting,Average DJ,LeMahieu New York Yankees,.364
+2020,AL,hitting,Doubles,Cesar Hernandez,Cleveland Indians,20
+2020,AL,hitting,Hits,Jose Abreu,Chicago White Sox,76
+2020,AL,hitting,Home,Runs Luke,Voit New York Yankees,22
+2020,AL,hitting,On,Base Percentage,DJ LeMahieu New York Yankees,.421
+2020,AL,hitting,RBI,Jose Abreu,Chicago White Sox,60
+2020,AL,hitting,Runs,Tim Anderson,Chicago White Sox,45
+2020,AL,hitting,Jose,Ramirez Cleveland,Indians,45
+2020,AL,hitting,Slugging,Average Jose,Abreu Chicago White Sox,.617
+2020,AL,hitting,Stolen,Bases Adalberto,Mondesi Kansas City Royals,24
+2020,AL,hitting,Total,Bases Jose,Abreu Chicago White Sox,148
+2020,AL,hitting,Triples,Kyle Tucker,Houston Astros,6
+2020,AL,pitching,Complete,Games Gerrit,Cole New York Yankees,2
+2020,AL,pitching,ERA,Shane Bieber,Cleveland Indians,1.63
+2020,AL,pitching,Games,Scott Barlow,Kansas City Royals,32
+2020,AL,pitching,Saves,Brad Hand,Cleveland Indians,16
+2020,AL,pitching,Shutouts,Gerrit Cole,New York Yankees,1
+2020,AL,pitching,Kyle,Gibson Texas,Rangers,1
+2020,AL,pitching,Lucas,Giolito Chicago,White Sox,1
+2020,AL,pitching,Brad,Keller Kansas,City Royals,1
+2020,AL,pitching,Mike,Minor Oakland,Athletics,1
+2020,AL,pitching,Strikeouts,Shane Bieber,Cleveland Indians,122
+2020,AL,pitching,Winning,Percentage Shane,Bieber Cleveland Indians,.889
+2020,AL,pitching,Wins,Shane Bieber,Cleveland Indians,8
+2020,NL,hitting,Base on,Balls Bryce,Harper Philadelphia Phillies,49
+2020,NL,hitting,Batting,Average Juan,Soto Washington Nationals,.351
+2020,NL,hitting,Doubles,Freddie Freeman,Atlanta Braves,23
+2020,NL,hitting,Hits,Trea Turner,Washington Nationals,78
+2020,NL,hitting,Home,Runs Marcell,Ozuna Atlanta Braves,18
+2020,NL,hitting,On,Base Percentage,Juan Soto Washington Nationals,.490
+2020,NL,hitting,RBI,Marcell Ozuna,Atlanta Braves,56
+2020,NL,hitting,Runs,Freddie Freeman,Atlanta Braves,51
+2020,NL,hitting,Slugging,Average Juan,Soto Washington Nationals,.695
+2020,NL,hitting,Stolen,Bases Trevor,Story Colorado Rockies,15
+2020,NL,hitting,Total,Bases Marcell,Ozuna Atlanta Braves,145
+2020,NL,hitting,Triples,Trevor Story,Colorado Rockies,4
+2020,NL,hitting,Trea,Turner Washington,Nationals,4
+2020,NL,hitting,Mike,Yastrzemski San,Francisco Giants,4
+2020,NL,pitching,Complete,Games Trevor,Bauer Cincinnati Reds,2
+2020,NL,pitching,Aaron,Nola Philadelphia,Phillies,2
+2020,NL,pitching,Adam,Wainwright St.,Louis Cardinals,2
+2020,NL,pitching,ERA,Trevor Bauer,Cincinnati Reds,1.73
+2020,NL,pitching,Games,Tyler Rogers,San Francisco Giants,29
+2020,NL,pitching,Saves,Josh Hader,Milwaukee Brewers,13
+2020,NL,pitching,Shutouts,Trevor Bauer,Cincinnati Reds,2
+2020,NL,pitching,Strikeouts Jacob deGrom,New York,Mets,104
+2020,NL,pitching,Winning,Percentage Max,Fried Atlanta Braves,1.000
+2020,NL,pitching,Wins,Yu Darvish,Chicago Cubs,8
+2021,AL,hitting,Base on,Balls Joey,Gallo Texas Rangers,111
+2021,AL,hitting,Batting,Average Yuli,Gurriel Houston Astros,.319
+2021,AL,hitting,Doubles,Jeimer Candelario,Detroit Tigers,42
+2021,AL,hitting,J.D.,Martinez Boston,Red Sox,42
+2021,AL,hitting,Whit,Merrifield Kansas,City Royals,42
+2021,AL,hitting,Hits,Bo Bichette,Toronto Blue Jays,191
+2021,AL,hitting,Home,Runs Vladimir,Guerrero Jr. Toronto Blue Jays,48
+2021,AL,hitting,Salvador,Perez Kansas,City Royals,48
+2021,AL,hitting,On,Base Percentage,Vladimir Guerrero Jr. Toronto Blue Jays,.401
+2021,AL,hitting,RBI,Salvador Perez,Kansas City Royals,121
+2021,AL,hitting,Runs,Vladimir Guerrero,Jr. Toronto Blue Jays,123
+2021,AL,hitting,Slugging,Average Vladimir,Guerrero Jr. Toronto Blue Jays,.601
+2021,AL,hitting,Stolen,Bases Whit,Merrifield Kansas City Royals,40
+2021,AL,hitting,Total,Bases Vladimir,Guerrero Jr. Toronto Blue Jays,363
+2021,AL,hitting,Triples,Shohei Ohtani,Los Angeles Angels,8
+2021,AL,pitching,Complete,Games Gerrit,Cole New York Yankees,2
+2021,AL,pitching,Sean,Manaea Oakland,Athletics,2
+2021,AL,pitching,ERA,Robbie Ray,Toronto Blue Jays,2.84
+2021,AL,pitching,Games,Bryan Shaw,Cleveland Indians,81
+2021,AL,pitching,Saves,Liam Hendriks,Chicago White Sox,38
+2021,AL,pitching,Shutouts,Sean Manaea,Oakland Athletics,2
+2021,AL,pitching,Strikeouts,Robbie Ray,Toronto Blue Jays,248
+2021,AL,pitching,Winning,Percentage Lance,"McCullers, Jr. Houston Astros",.722
+2021,AL,pitching,Wins,Gerrit Cole,New York Yankees,16
+2021,NL,hitting,Base on,Balls Juan,Soto Washington Nationals,145
+2021,NL,hitting,Batting,Average Trea,Turner Washington Nationals,.328
+2021,NL,hitting,Doubles,Bryce Harper,Philadelphia Phillies,42
+2021,NL,hitting,Hits,Trea Turner,Washington Nationals,195
+2021,NL,hitting,Home,Runs Fernando,Tatis Jr. San Diego Padres,42
+2021,NL,hitting,On,Base Percentage,Juan Soto Washington Nationals,.465
+2021,NL,hitting,RBI,Adam Duvall,Miami Marlins,113
+2021,NL,hitting,Runs,Freddie Freeman,Atlanta Braves,120
+2021,NL,hitting,Slugging,Average Bryce,Harper Philadelphia Phillies,.615
+2021,NL,hitting,Stolen,Bases Trea,Turner Washington Nationals,32
+2021,NL,hitting,Total,Bases Trea,Turner Washington Nationals,319
+2021,NL,hitting,Triples,David Peralta,Arizona Diamondbacks,8
+2021,NL,hitting,Bryan,Reynolds Pittsburgh,Pirates,8
+2021,NL,pitching,Complete,Games German,Marquez Colorado Rockies,3
+2021,NL,pitching,Adam,Wainwright St.,Louis Cardinals,3
+2021,NL,pitching,Zack,Wheeler Philadelphia,Phillies,3
+2021,NL,pitching,ERA,Corbin Burnes,Milwaukee Brewers,2.43
+2021,NL,pitching,Games,Tyler Rogers,San Francisco Giants,80
+2021,NL,pitching,Saves,Mark Melancon,San Diego Padres,39
+2021,NL,pitching,Shutouts,Anthony DeSclafani,San Francisco Giants,2
+2021,NL,pitching,Max,Fried Atlanta,Braves,2
+2021,NL,pitching,Joe,Musgrove San,Diego Padres,2
+2021,NL,pitching,Zack,Wheeler Philadelphia,Phillies,2
+2021,NL,pitching,Strikeouts,Zack Wheeler,Philadelphia Phillies,247
+2021,NL,pitching,Winning,Percentage Julio,Urias Los Angeles Dodgers,.870
+2021,NL,pitching,Wins,Julio Urias,Los Angeles Dodgers,20
+2022,AL,hitting,Base on,Balls Aaron,Judge New York Yankees,111
+2022,AL,hitting,Batting,Average Luis,Arraez Minnesota Twins,.316
+2022,AL,hitting,Hits,Bo Bichette,Toronto Blue Jays,189
+2022,AL,hitting,Home,Runs Aaron,Judge New York Yankees,62
+2022,AL,hitting,On,Base Percentage,Aaron Judge New York Yankees,.425
+2022,AL,hitting,RBI,Aaron Judge,New York Yankees,131
+2022,AL,hitting,Runs,Aaron Judge,New York Yankees,133
+2022,AL,hitting,Slugging,Average Aaron,Judge New York Yankees,.686
+2022,AL,hitting,Stolen,Bases Jorge,Mateo Baltimore Orioles,35
+2022,AL,hitting,Total,Bases Aaron,Judge New York Yankees,391
+2022,AL,hitting,Triples,Amed Rosario,Cleveland Guardians,9
+2022,AL,pitching,Complete,Games Framber,Valdez Houston Astros,3
+2022,AL,pitching,ERA,Justin Verlander,Houston Astros,1.75
+2022,AL,pitching,Games,Adam Cimber,Toronto Blue Jays,77
+2022,AL,pitching,Emmanuel,Clase Cleveland,Guardians,77
+2022,AL,pitching,Saves,Emmanuel Clase,Cleveland Guardians,42
+2022,AL,pitching,Shutouts,Dylan Cease,Chicago White Sox,1
+2022,AL,pitching,Nestor,Cortes New,York Yankees,1
+2022,AL,pitching,Reid,Detmers Los,Angeles Angels,1
+2022,AL,pitching,Nathan,Eovaldi Boston,Red Sox,1
+2022,AL,pitching,Dean,Kremer Baltimore,Orioles,1
+2022,AL,pitching,Patrick,Sandoval Los,Angeles Angels,1
+2022,AL,pitching,Framber,Valdez Houston,Astros,1
+2022,AL,pitching,Michael,Wacha Boston,Red Sox,1
+2022,AL,pitching,Strikeouts,Corbin Burnes,Milwaukee Brewers,243
+2022,AL,pitching,Winning,Percentage Justin,Verlander Houston Astros,.818
+2022,AL,pitching,Wins,Justin Verlander,Houston Astros,18
+2022,NL,hitting,Base on,Balls Juan,Soto Washington Nationals,135
+2022,NL,hitting,Batting,Average Jeff,McNeil New York Mets,.326
+2022,NL,hitting,Doubles,Freddie Freeman,Los Angeles Dodgers,44
+2022,NL,hitting,Hits,Freddie Freeman,Los Angeles Dodgers,11
+2022,NL,hitting,Home,Runs Kyle,Schwarber Philadelphia Phillies,46
+2022,NL,hitting,On,Base Percentage,Freddie Freeman Los Angeles Dodgers,.407
+2022,NL,hitting,RBI,Pete Alonso,New York Mets,131
+2022,NL,hitting,Runs,Mookie Betts,Los Angeles Dodgers,117
+2022,NL,hitting,Freddie,Freeman Los,Angeles Dodgers,117
+2022,NL,hitting,Slugging,Average Paul,Goldschmidt St. Louis Cardinals,.578
+2022,NL,hitting,Stolen,Bases Jon,Berti Miami Marlins,41
+2022,NL,hitting,Total,Bases Austin,Riley Atlanta Braves,325
+2022,NL,hitting,Triples,Gavin Lux,Los Angeles Dodgers,7
+2022,NL,hitting,Brandon,Nimmo New,York Mets,7
+2022,NL,pitching,Complete,Games Sandy,Alcantara Miami Marlins,6
+2022,NL,pitching,ERA Julio Urías,Los Angeles,Dodgers,2.16
+2022,NL,pitching,Games,John Brebbia,San Francisco Giants,76
+2022,NL,pitching,Saves,Kenley Jansen,Atlanta Braves,41
+2022,NL,pitching,Shutouts,Sandy Alcantara,Miami Marlins,1
+2022,NL,pitching,Walker,Buehler Los,Angeles Dodgers,1
+2022,NL,pitching,Bryce,Elder Atlanta,Braves,1
+2022,NL,pitching,Hunter,Greene Cincinnati,Reds,1
+2022,NL,pitching,Chad,Kuhl Colorado,Rockies,1
+2022,NL,pitching,Jordan,Montgomery St.,Louis Cardinals,1
+2022,NL,pitching,Aaron,Nola Philadelphia,Phillies,1
+2022,NL,pitching,Strikeouts,Corbin Burnes,Milwaukee Brewers,243
+2022,NL,pitching,Winning,Percentage Kyle,Wright Atlanta Braves,.808
+2022,NL,pitching,Wins,Kyle Wright,Atlanta Braves,21
+2023,AL,hitting,Base on,Balls J.P.,Crawford Seattle Mariners,94
+2023,AL,hitting,Batting,Average Yandy,Díaz Tampa Bay Rays,.330
+2023,AL,hitting,Doubles,Corey Seager,Texas Rangers,42
+2023,AL,hitting,Hits,Marcus Semien,Texas Rangers,185
+2023,AL,hitting,Home,Runs Shohei,Ohtani Los Angeles Angels,44
+2023,AL,hitting,On,Base Percentage,Shohei Ohtani Los Angeles Angels,.412
+2023,AL,hitting,RBI,Kyle Tucker,Houston Astros,112
+2023,AL,hitting,Runs,Marcus Semien,Texas Rangers,122
+2023,AL,hitting,Slugging,Average Shohei,Ohtani Los Angeles Angels,.654
+2023,AL,hitting,Stolen,Bases Esteury,Ruiz Oakland Athletics,67
+2023,AL,hitting,Total,Bases Shohei,Ohtani Los Angeles Angels,325
+2023,AL,hitting,Triples,Bobby Witt,Jr. Kansas City Royals,11
+2023,AL,pitching,Complete,Games Jordan,Lyles Kansas City Royals,3
+2023,AL,pitching,ERA,Gerrit Cole,New York Yankees,2.63
+2023,AL,pitching,Games,Matt Brash,Seattle Mariners,78
+2023,AL,pitching,Saves,Emmanuel Clase,Cleveland Guardians,44
+2023,AL,pitching,Shutouts,Gerrit Cole,New York Yankees,2
+2023,AL,pitching,Framber,Valdez Houston,Astros,2
+2023,AL,pitching,Strikeouts,Kevin Gausman,Toronto Blue Jays,237
+2023,AL,pitching,Winning,Percentage Gerrit,Cole New York Yankees,.789
+2023,AL,pitching,Wins,Chris Bassitt,Toronto Blue Jays,16
+2023,AL,pitching,Zach,Eflin Tampa,Bay Rays,16
+2023,NL,hitting,Base on,Balls Juan,Soto San Diego Padres,132
+2023,NL,hitting,Batting,Average Luis,Arraez Miami Marlins,.354
+2023,NL,hitting,Doubles,Freddie Freeman,Los Angeles Dodgers,59
+2023,NL,hitting,Hits Ronald Acuña,Jr. Atlanta,Braves,217
+2023,NL,hitting,Home,Runs Matt,Olson Atlanta Braves,54
+2023,NL,hitting,On,Base Percentage,Ronald Acuña Jr. Atlanta Braves,.416
+2023,NL,hitting,RBI,Matt Olson,Atlanta Braves,139
+2023,NL,hitting,Runs Ronald Acuña,Jr. Atlanta,Braves,149
+2023,NL,hitting,Slugging,Average Matt,Olson Atlanta Braves,.604
+2023,NL,hitting,Stolen,Bases Ronald,Acuña Jr. Atlanta Braves,73
+2023,NL,hitting,Total,Bases Ronald,Acuña Jr. Atlanta Braves,383
+2023,NL,hitting,Triples,Corbin Carroll,Arizona Diamondbacks,10
+2023,NL,pitching,Complete,Games Sandy,Alcantara Miami Marlins,3
+2023,NL,pitching,ERA,Blake Snell,San Diego Padres,2.25
+2023,NL,pitching,Games,Miguel Castro,Arizona Diamondbacks,75
+2023,NL,pitching,Saves,David Bednar,Pittsburgh Pirates,39
+2023,NL,pitching,Camilo,Doval San,Francisco Giants,39
+2023,NL,pitching,Shutouts,Sandy Alcantara,Miami Marlins,1
+2023,NL,pitching,Alex,Cobb San,Francisco Giants,1
+2023,NL,pitching,Max,Fried Atlanta,Braves,1
+2023,NL,pitching,Zac,Gallen Arizona,Diamondbacks,1
+2023,NL,pitching,Mitch,Keller Pittsburgh,Pirates,1
+2023,NL,pitching,Michael,Lorenzen Philadelphia,Phillies,1
+2023,NL,pitching,Johan,Oviedo Pittsburgh,Pirates,1
+2023,NL,pitching,Marcus,Stroman Chicago,Cubs,1
+2023,NL,pitching,Logan,Webb San,Francisco Giants,1
+2023,NL,pitching,Brandon,Woodruff Milwaukee,Brewers,1
+2023,NL,pitching,Strikeouts,Spencer Strider,Atlanta Braves,281
+2023,NL,pitching,Winning,Percentage Spencer,Strider Atlanta Braves,.800
+2023,NL,pitching,Wins,Spencer Strider,Atlanta Braves,20
+2024,AL,hitting,Base on,Balls Aaron,Judge New York,133
+2024,AL,hitting,Batting,Average Bobby,Witt Jr. Kansas City,.332
+2024,AL,hitting,Doubles,Jarren Duran,Boston,48
+2024,AL,hitting,Hits,Bobby Witt,Jr. Kansas City,211
+2024,AL,hitting,Home,Runs Aaron,Judge New York,58
+2024,AL,hitting,On,Base Percentage,Aaron Judge New York,.458
+2024,AL,hitting,RBI,Aaron Judge,New York,144
+2024,AL,hitting,Runs,Juan Soto,New York,128
+2024,AL,hitting,Slugging,Average Aaron,Judge New York,.701
+2024,AL,hitting,Stolen,Bases Jose,Caballero Tampa Bay,44
+2024,AL,hitting,Total,Bases Aaron,Judge New York,392
+2024,AL,hitting,Triples,Jarren Duran,Boston,14
+2024,AL,pitching,Complete,Games Kevin,Gausman Toronto,2
+2024,AL,pitching,ERA,Tarik Skubal,Detroit,2.39
+2024,AL,pitching,Games,T.J. McFarland,Oakland,79
+2024,AL,pitching,Saves,Emmanuel Clase,Cleveland,47
+2024,AL,pitching,Shutouts,Ronel Blanco,Houston,1
+2024,AL,pitching,Strikeouts,Tarik Skubal,Detroit,228
+2024,AL,pitching,Winning,Percentage Tarik,Skubal Detroit,.818
+2024,AL,pitching,Wins,Tarik Skubal,Detroit,18
+2024,NL,hitting,Base on,Balls Kyle,Schwarber Philadelphia,105
+2024,NL,hitting,Batting,Average Luis,Arraez Miami,.314
+2024,NL,hitting,Doubles,Ezequiel Tovar,Colorado,45
+2024,NL,hitting,Hits,Luis Arraez,Miami,200
+2024,NL,hitting,Home,Runs Shohei,Ohtani Los Angeles,54
+2024,NL,hitting,On,Base Percentage,Shohei Ohtani Los Angeles,.390
+2024,NL,hitting,RBI,Shohei Ohtani,Los Angeles,130
+2024,NL,hitting,Runs,Shohei Ohtani,Los Angeles,134
+2024,NL,hitting,Slugging,Average Shohei,Ohtani Los Angeles,.646
+2024,NL,hitting,Stolen,Bases Elly,De La Cruz Cincinnati,67
+2024,NL,hitting,Total,Bases Shohei,Ohtani Los Angeles,411
+2024,NL,hitting,Triples,Corbin Carroll,Arizona,14
+2024,NL,pitching,Complete,Games Max,Fried Atlanta,2
+2024,NL,pitching,ERA,Chris Sale,Atlanta,2.38
+2024,NL,pitching,Games,Tyler Rogers,San Francisco,77
+2024,NL,pitching,Saves,Ryan Helsley,St. Louis,49
+2024,NL,pitching,Shutouts,Dylan Cease,San Diego,1
+2024,NL,pitching,Luis,Severino New,York,1
+2024,NL,pitching,Blake,Snell San,Francisco,1
+2024,NL,pitching,Gavin,Stone Los,Angeles,1
+2024,NL,pitching,Logan,Webb San,Francisco,1
+2024,NL,pitching,Strikeouts,Chris Sale,Atlanta,225
+2024,NL,pitching,Winning,Percentage Chris,Sale Atlanta,.857
+2024,NL,pitching,Wins,Chris Sale,Atlanta,18
