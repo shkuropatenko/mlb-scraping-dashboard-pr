@@ -145,3 +145,9 @@ All required files and dependencies are included.
 ## Screenshot
 
 ![Dashboard Screenshot](dashboard_screenshot.png)
+
+## Future improvements:
+- schedule the pipeline
+- add tests for transformations
+- containerize with Docker
+- replace SQLite with PostgreSQL
