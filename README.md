@@ -45,7 +45,6 @@ mlb-data-pipeline/
 ├── mlb.db # SQLite database
 ├── requirements.txt
 └── README.md
----
 
 ### 1️⃣ Web Scraping (Selenium)
 
