@@ -12,7 +12,7 @@ The data is scraped from the Baseball Almanac website, cleaned and structured, s
 
 ## Project Structure
 
-mlb-scraping-dashboard-pr/
+mlb-data-pipeline/
 
 ├── data/  
 │ └── raw/  
