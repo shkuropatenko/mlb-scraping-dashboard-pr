@@ -30,6 +30,8 @@ It reflects real-world data engineering tasks such as:
 
 mlb-data-pipeline/
 │
+│
+│
 ├── data/
 │ └── raw/
 │ └── leaders.csv
@@ -45,6 +47,8 @@ mlb-data-pipeline/
 ├── mlb.db # SQLite database
 ├── requirements.txt
 └── README.md
+│
+│
 │
 
 ### 1️⃣ Web Scraping (Selenium)
