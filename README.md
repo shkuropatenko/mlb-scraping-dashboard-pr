@@ -1,4 +1,4 @@
-# MLB Leaders Scraping & Dashboard Project
+# MLB Data Pipeline
 
 ## 🚀 MLB Data Pipeline
 
