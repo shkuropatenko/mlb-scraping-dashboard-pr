@@ -2,7 +2,9 @@
 
 ## Overview
 
-This project demonstrates a complete end-to-end data pipeline built with Python:
+This project demonstrates a reproducible small-scale ETL workflow:
+data is extracted from the web, transformed and validated with Pandas,
+loaded into SQLite, and then consumed by CLI queries and a dashboard.
 
 Selenium → CSV → SQLite → CLI Queries (JOIN) → Streamlit Dashboard
 
