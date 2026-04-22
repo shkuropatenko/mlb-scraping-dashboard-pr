@@ -1,46 +1,57 @@
 # MLB Leaders Scraping & Dashboard Project
 
-## Overview
+## 🚀 MLB Data Pipeline
 
-This project demonstrates a reproducible small-scale ETL workflow:
-data is extracted from the web, transformed and validated with Pandas,
-loaded into SQLite, and then consumed by CLI queries and a dashboard.
+End-to-end data pipeline for collecting, processing, and analyzing MLB data using Python.
 
-Selenium → CSV → SQLite → CLI Queries (JOIN) → Streamlit Dashboard
+This project demonstrates a small-scale ETL workflow:
+- Extract: scrape MLB data using Selenium  
+- Transform: clean and process data with Pandas (handling missing values, type conversion, filtering)  
+- Load: store structured data in SQLite with indexed tables  
+- Query: run SQL queries with joins and aggregations  
+- Visualize: display insights using a Streamlit dashboard and Plotly  
 
-The data is scraped from the Baseball Almanac website, cleaned and structured, stored in a SQLite database, queried via command line, and visualized in an interactive dashboard.
+Tech stack: Python, Pandas, Selenium, SQLite, SQL, Streamlit  
 
----
+The goal is to simulate a real-world data workflow, from raw data ingestion to analysis and visualization.
+
+## Why This Project Matters
+
+This project demonstrates how to build a simple but complete data pipeline:
+from raw data ingestion to structured storage and downstream analytics.
+
+It reflects real-world data engineering tasks such as:
+- handling imperfect data
+- designing a data flow
+- working with databases and queries
+- connecting data pipelines to user-facing applications
 
 ## Project Structure
 
 mlb-data-pipeline/
-
-├── data/  
-│ └── raw/  
+│
+├── data/
+│ └── raw/
 │ └── leaders.csv
-
-├── scripts/  
-│ ├── scrape_mlb.py # Selenium web scraping  
-│ ├── import_db.py # CSV → SQLite  
-│ └── query_db.py # CLI query with JOIN
-
-├── dashboard/  
+│
+├── scripts/
+│ ├── scrape_mlb.py # Selenium scraping
+│ ├── import_db.py # CSV → SQLite
+│ └── query_db.py # SQL queries (JOIN)
+│
+├── dashboard/
 │ └── streamlit_app.py # Interactive dashboard
-
-├── mlb.db # SQLite database  
-├── requirements.txt  
+│
+├── mlb.db # SQLite database
+├── requirements.txt
 └── README.md
-
 ---
 
-## 1️⃣ Web Scraping (Selenium)
+### 1️⃣ Web Scraping (Selenium)
 
-File: `scripts/scrape_mlb.py`
-
-- Uses Selenium to retrieve MLB leader data
-- Extracts structured information
-- Saves raw data as CSV:
+- Retrieves MLB leader data  
+- Extracts structured information  
+- Saves raw data to CSV  
 
 data/raw/leaders.csv
 
@@ -146,8 +157,10 @@ All required files and dependencies are included.
 
 ![Dashboard Screenshot](dashboard_screenshot.png)
 
-## Future improvements:
-- schedule the pipeline
-- add tests for transformations
-- containerize with Docker
-- replace SQLite with PostgreSQL
+## Future Improvements
+
+- Add pipeline scheduling (Airflow or Prefect)
+- Replace SQLite with PostgreSQL
+- Containerize with Docker
+- Add automated tests for data transformations
+- Store data in cloud storage (e.g., AWS S3)
