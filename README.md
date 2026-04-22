@@ -28,28 +28,23 @@ It reflects real-world data engineering tasks such as:
 
 ## Project Structure
 
-mlb-data-pipeline/
-│
-│
-│
-├── data/
-│ └── raw/
-│ └── leaders.csv
-│
-├── scripts/
-│ ├── scrape_mlb.py # Selenium scraping
-│ ├── import_db.py # CSV → SQLite
-│ └── query_db.py # SQL queries (JOIN)
-│
-├── dashboard/
-│ └── streamlit_app.py # Interactive dashboard
-│
-├── mlb.db # SQLite database
-├── requirements.txt
-└── README.md
-│
-│
-│
+    mlb-data-pipeline/
+    │
+    ├── data/
+    │   └── raw/
+    │       └── leaders.csv
+    │
+    ├── scripts/
+    │   ├── scrape_mlb.py      # Selenium scraping
+    │   ├── import_db.py       # CSV → SQLite
+    │   └── query_db.py        # SQL queries (JOIN)
+    │
+    ├── dashboard/
+    │   └── streamlit_app.py   # Interactive dashboard
+    │
+    ├── mlb.db                 # SQLite database
+    ├── requirements.txt
+    └── README.md
 
 ### 1️⃣ Web Scraping (Selenium)
 
